@@ -4,4 +4,4 @@
 
 ### Email: mshrejon@gmail.com
 
-[ Live url](অhttps://webpagehtmlcss.netlify.app/)
+[ Live url](https://webpagehtmlcss.netlify.app/)
